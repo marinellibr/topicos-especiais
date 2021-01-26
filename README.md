@@ -20,4 +20,11 @@ Referência:  [Link para o site do sklearn](https://scikit-learn.org/stable/modu
 
 Inicialmente importamos o sklearn, e dele importamos os métodos de aprendizado. Carregamos o dataset e atribuímos os parâmetros e dados dele às variáveis do nosso programa, logo em seguida implementamos a função train_test_split()para dividirmos em arrays de treino e de teste, passando os dados e a porcentagem do array de dados direcionados à testes.
 Instanciamos os métodos de aprendizado e a partir da predição feita pelos métodos, geramos e exibimos a acurácia.
-Quanto ao algoritmo escolhido e seu desempenho, concluímos que 
+
+# Métricas
+
+métricas fodase
+
+# Desempenho
+
+desepenhozada
