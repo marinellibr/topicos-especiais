@@ -28,3 +28,11 @@ métricas fodase
 # Desempenho
 
 desepenhozada
+
+# Participantes
+
+* Guilherme Quittó - PT3001385
+* Jonathan Dias dos Santos - PT300208X
+* Luiz Henrique Marinelli dos Santos - PT3006042
+* Leonardo Lotaif - PT3001458
+* Matheus Vinicius de Souza Gomes - PT3001369
